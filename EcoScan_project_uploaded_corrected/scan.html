@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EcoScan - Scan</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="products.html">Productos</a></li>
+                <li><a href="scan.html">Scan</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="scanner">
+            <h1>Escanear Código de Barras</h1>
+            <div id="interactive" class="viewport"></div>
+            <button id="start-scan">Scan</button>
+            <button id="stop-scan">Stop</button>
+            <p id="result">Resultado: <span id="barcode-result">N/A</span></p>
+            <div id="scan-result" class="box"></div>
+        </section>
+    </main>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/quagga/0.12.1/quagga.min.js"></script>
+    <script src="js/scan.js"></script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+[
+    {
+        "barcode": "8436568454429",
+        "name": "Azúcar de caña integral - Marde Tierra, OXFAM Intermon - Origen: Perú",
+        "image": "images/1.jpg"
+    },
+    {
+        "barcode": "7613038601489",
+        "name": "Café - BONKA, NESTLE - Origen: ",
+        "image": "images/2.jpg"
+    },
+    {
+        "barcode": "8437001415014",
+        "name": "Café - Marde Tierra, OXFAM Intermon - Origen: Uganda",
+        "image": "images/3.jpg"
+    },
+    {
+        "barcode": "8437007611502",
+        "name": "Chocolate 70% Naranja - Marde Tierra, OXFAM Intermon - Origen: República Dominicana y Paraguay",
+        "image": "images/4.jpg"
+    },
+    {
+        "barcode": "8437007611687",
+        "name": "TÉ CHAI - Marde Tierra, OXFAM Intermon - Origen: SRI LANKA",
+        "image": "images/5.jpg"
+    }
+    
+]
